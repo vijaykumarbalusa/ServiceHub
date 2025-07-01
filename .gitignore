@@ -1,0 +1,17 @@
+# Python
+servicehub-backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+servicehub-frontend/node_modules/
+servicehub-frontend/.env
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+
