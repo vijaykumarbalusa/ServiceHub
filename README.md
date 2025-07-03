@@ -45,15 +45,6 @@ Built as a real-world, production-ready solution for community engagement and di
 
 ---
 
-## 📸 Screenshots
-
-<!--
-Add PNG/JPG screenshots in `/docs/screenshots/` and update the image links below.
--->
-<!--
-![Home](docs/screenshots/home.png)
-![Booking Flow](docs/screenshots/booking.png)
-![Admin Dashboard](docs/screenshots/admin_dashboard.png)
 -->
 
 ---
@@ -109,27 +100,3 @@ Data Engineering: Advanced database design, ETL workflows, and secure data handl
 Analytics & Visualization: Admin dashboard, booking analytics, revenue graphs
 Team Collaboration: Built using Git/GitHub, code reviews, and Agile sprints
 Excellent Interview Example: Demonstrates full-stack, teamwork, and delivery on real-world business requirements
-📝 License
-
-MIT License
-
-🤝 Contact & Collaboration
-
-Interested in learning more, collaborating, or offering feedback?
-
-Open a GitHub issue
-Connect with Vijay Kumar Balusa on LinkedIn
-Capstone project for Central Michigan University, May 2025 cohort.
-
----
-
-**How to use:**
-1. Copy everything above into your `README.md`.
-2. Add screenshots into `/docs/screenshots` and update the image links if you wish.
-3. Update team member LinkedIn links or roles if desired.
-4. If you want to add a live demo, add a section/link!
-
----
-
-Let me know if you want it tweaked for a particular job posting, a company, or want a special “Contributions Welcome” section.  
-I can further tailor it for recruiter, DevOps, data, or software engineering focus!
